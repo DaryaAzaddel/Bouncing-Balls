@@ -1,0 +1,4 @@
+MinGW not found at: C:\MinGW\MinGW Configure Disable profile
+
+Cannot get compiler information:
+	Cannot run program "C:\MinGW\MinGW\bin\c++.exe" (in directory "C:\Users\HP\CLionProjects\untitled6\cmake-build-debug"): CreateProcess error=2, The system cannot find the file specified
